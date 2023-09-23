@@ -8,3 +8,6 @@ play.sh fetches a random line from playlist.txt and opens it in Firefox
 Installation:
 Set up fetch.sh to run periodically via cron or the scheduler of your choice.
 Set up play.sh to run at some point in the morning
+
+Prerequisites:
+Requires [yt-dlp](https://github.com/yt-dlp/yt-dlp) installed.
