@@ -1,5 +1,5 @@
 # josh_wake_up_music
-Bash script to fetch random url fro youtube playlist and open it
+Bash script to fetch random url from a youtube playlist and open it
 
 fetch.sh: fetches a playlist as url lines to ./playlist.txt
 
